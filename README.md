@@ -37,7 +37,7 @@ cd ./MyFirstApp
 ```
 npm i
 ```
-### Now you are good to test the app
+Now you are good to test the app
 
 ## Step 6
 ### Start the app by running
