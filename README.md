@@ -44,7 +44,7 @@ npm i
 ```
 npm start
 ```
-### This should show you some content in your terminal. Type w to open the app in web mode or Type a(if you got Android SDK :))
+This should show you some content in your terminal. Type w to open the app in web mode or Type a(if you got Android SDK :))
 
-## Done. You are now good to test the app.
+Done. You are now good to test the app.
 ## P.S. Suggestions will be appreciated. You are welcome to send pull requests.
